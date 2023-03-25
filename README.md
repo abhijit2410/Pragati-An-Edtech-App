@@ -16,10 +16,13 @@ AND to cater the aspirations of the students and people looking for new opportun
 ## Solution
 
 For Students/Graduates suggestions are made by the bot regarding their career goals, jobs and prospects, this can be what they are best in and according to that what is the best career(livelihood) they can choose for themselves.
-
 For Working Professionals our app will provide easier access of resourceful information to enhance their skills and improve their knowledge.
+and capable  of answering any Edtech related queries.
 
-AND capable  of answering any Edtech related queries.
+  > ## Solution and App video
+  https://user-images.githubusercontent.com/77913276/227733559-89e758ba-4f6d-4e9d-b115-a109a5d2b029.mp4
+  > ## Chatbot demo video
+  https://user-images.githubusercontent.com/77913276/227733663-348b81dc-9613-4874-93ec-81222fc25b28.mp4
 
 ### Try it out, It's live
 The following link will redirect you to demo whatsapp number. 
@@ -39,4 +42,14 @@ https://wa.me/918904587744?text=Hi
 - Tensorflow
 - Matplotlib
 - scikit-learn
+
+
+
+
+
+
+
+
+
+
 
