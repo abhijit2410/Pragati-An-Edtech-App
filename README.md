@@ -19,7 +19,7 @@ For Students/Graduates suggestions are made by the bot regarding their career go
 For Working Professionals our app will provide easier access of resourceful information to enhance their skills and improve their knowledge.
 and capable  of answering any Edtech related queries.
 
-  > ## Solution and App video
+  > ## Solution and App demo video
   https://user-images.githubusercontent.com/77913276/227733559-89e758ba-4f6d-4e9d-b115-a109a5d2b029.mp4
   
   
